@@ -6,3 +6,4 @@
 
 - [echonet-dynamic-cardiac-ultrasound](https://aimi.stanford.edu/echonet-dynamic-cardiac-ultrasound)
 - [covid19-image-dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+- [covid19-ct-scans](https://www.kaggle.com/datasets/andrewmvd/covid19-ct-scans)
