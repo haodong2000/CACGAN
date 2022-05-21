@@ -9,6 +9,7 @@ __pycache__/
 # LHD
 data/
 models/
+images/con_mat.png
 
 # Distribution / packaging
 .Python
