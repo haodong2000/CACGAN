@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # LHD
-data/
+# data/
 models/
 images/con_mat.png
 references/
