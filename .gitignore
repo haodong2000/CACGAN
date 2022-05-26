@@ -11,6 +11,8 @@ __pycache__/
 models/
 images/con_mat.png
 references/
+data/Coivd-19_Classic
+data/Coivd-19_Synthetic
 
 # Distribution / packaging
 .Python
