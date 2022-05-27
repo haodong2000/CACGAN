@@ -13,6 +13,7 @@ images/con_mat.png
 references/
 data/Coivd-19_Classic
 data/Coivd-19_Synthetic
+*.gv
 
 # Distribution / packaging
 .Python
