@@ -15,6 +15,10 @@ data/Coivd-19_Classic
 data/Coivd-19_Synthetic
 *.gv
 GANAug/model/
+*.tar
+*.tar.gz
+*.gz
+*.zip
 
 # Distribution / packaging
 .Python
