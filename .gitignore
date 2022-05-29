@@ -14,6 +14,7 @@ references/
 data/Coivd-19_Classic
 data/Coivd-19_Synthetic
 *.gv
+GANAug/model/
 
 # Distribution / packaging
 .Python
