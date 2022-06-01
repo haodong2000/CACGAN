@@ -1,0 +1,32 @@
+name: torch_1-11
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.3.1
+  - h5py=3.2.1
+  - ipython=8.3.0
+  - jupyter=1.0.0
+  - numpy=1.21.5
+  - opencv=4.5.2
+  - pandas=1.4.2
+  - pillow=9.0.1
+  - pip=21.2.4
+  - py-opencv=4.5.2
+  - pyqt=5.12.3
+  - python=3.9.12
+  - pytorch=1.11.0=py3.9_cuda11.3_cudnn8_0
+  - pytorch-model-summary=0.1.1
+  - qt=5.12.9
+  - scikit-learn=1.1.0
+  - scipy=1.7.3
+  - seaborn=0.11.2
+  - torchvision=0.12.0
+  - tqdm=4.64.0
+  - wheel=0.37.1
+  - pip:
+    - opencv-python==4.5.5.64
+    - python-graphviz==0.20
+    - torchsummary==1.5.1
+    - torchviz==0.0.2
