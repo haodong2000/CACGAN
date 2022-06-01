@@ -22,6 +22,7 @@ $ python -m pip install matplotlib==3.5.2 numpy==1.22.4 pandas==1.4.2 pillow==9.
 ### Configuration 2/2
 
 - For `ClassicAUG`, `ACGAN_AUG`
+- `conda env create -f environment_torch.yml`
 
 ### Classic Augmentation
 
