@@ -16,6 +16,7 @@ data/Coivd-19_Synthetic
 *.gv
 GANAug/model/
 GANAug/
+temp/
 *.tar
 *.tar.gz
 *.gz
