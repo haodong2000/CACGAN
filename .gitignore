@@ -20,6 +20,8 @@ temp/
 *.tar.gz
 *.gz
 *.zip
+test.py
+test.ipynb
 
 # Distribution / packaging
 .Python
