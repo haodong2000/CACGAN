@@ -13,6 +13,7 @@ images/con_mat.png
 references/
 data/Coivd-19_Classic
 data/Coivd-19_Synthetic
+data/Coivd-19_Hist
 *.gv
 GANAug/
 temp/
@@ -22,6 +23,11 @@ temp/
 *.zip
 test.py
 test.ipynb
+models_old/
+ACGAN_AUG_Yoga.ipynb
+# AlexNet.ipynb
+# EfficientNetB7.ipynb
+ACGAN_AUG_Lung.ipynb
 
 # Distribution / packaging
 .Python
