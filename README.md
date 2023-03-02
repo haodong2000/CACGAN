@@ -12,6 +12,12 @@
 
 - `conda env create -f environment_dl.yml`
 
+### Usage
+
+- `ClassicHistEqual.ipynb` for histogram equalization and `ClassicAUG.ipynb` for classic augmentation
+- `ACGAN_AUG.ipynb` for data synthetizing using an AC-GAN model
+- folders `[augmented, original, synthetic]` are results of multiple classifiers on augmented data, original data, and synthetic data, respectively.
+
 ### Classic Augmentation
 
 ![tran](https://user-images.githubusercontent.com/67775090/170679359-47b4893b-e1df-4de4-aeaa-190fed69629f.png)
