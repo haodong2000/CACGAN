@@ -11,6 +11,7 @@
 ### Configuration
 
 - `conda env create -f environment_dl.yml`
+- **`environment_dl.yml` may contains some packages that won't be used here! If you are disk-sensitive, please only install the packages appeared in scripts :)**
 
 ### Usage
 
