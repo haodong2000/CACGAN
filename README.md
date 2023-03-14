@@ -17,7 +17,7 @@
 ### Usage
 
 - `ClassicHistEqual.ipynb` for histogram equalization and `ClassicAUG.ipynb` for classic augmentation
-- `ACGAN_AUG.ipynb` for data synthetizing using an AC-GAN model
+- `CACGAN_AUG.ipynb` for data synthetizing using an AC-GAN model
 - `GenerateData.ipynb` for generating new data to `./GANGEN` through the Generator saved during training
 - folders `[augmented, original, synthetic]` are results of multiple classifiers on augmented data, original data, and synthetic data, respectively
 
